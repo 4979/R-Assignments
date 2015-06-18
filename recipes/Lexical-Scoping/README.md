@@ -91,4 +91,4 @@ In order to complete this assignment, you must do the following:
 
 ### Grading
 
-This assignment will be graded via peer assessment.
+This assignment will be graded via peer assessment. During the evaluation phase, you must evaluate and grade the submissions of at least 4 of your classmates. If you do not complete at least 4 evaluations, your own assignment grade will be reduced by 20%.
